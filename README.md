@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KhamHti/KhamHti/blob/output/snake.svg" alt="Snake animation" />
 
 ###
